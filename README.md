@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pawan Abhiram (@Dev-Paccore)
-- 👀 I’m interested in Architecting the software applications especially into flutter any python
+- 👀 I’m interested in Architecting the software applications especially into flutter and python
 - 🌱 I’m currently learning ReactNative
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me - pawanabhiram.y@gmail.com
